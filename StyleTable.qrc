@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Source/picture.png</file>
+        <file>Source/HAND3D.qml</file>
+    </qresource>
+</RCC>
